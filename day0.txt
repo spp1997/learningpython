@@ -1,0 +1,38 @@
+python Programming
+
+
+
+
+
+Python is an exciting and poerful language with the right combination of performance and features that makes programming fun and easy.
+
+It is a high level,interpreted, interactive,object-oriented and a reliable language that is very simple and uses English like words.
+
+Python is an open-source project,supported by many indivisuals.It is a platform-independent,scripted language with complete access to 
+opearting system APIs.
+
+Features of Python 
+Simple
+Easy to learn
+Versatile
+Free and Open Source
+High-level Language
+Interactive
+Portable
+Object-Oriented
+Interpreted
+Dynamic
+Extensible
+Embeddable
+Extensive
+Easy Maintenance
+Secure
+Robust
+Multi-threaded
+Garbage Collection
+
+
+
+
+
+
