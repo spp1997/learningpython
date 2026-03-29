@@ -31,6 +31,21 @@ Robust
 Multi-threaded
 Garbage Collection
 
+Applications of Python
+
+Embedded scripting language
+3D Software 
+Web development
+GUI-based desktop applications
+Image processing and graphic design applications
+Scientific and computational apllications
+gamee
+Enterprise and business applications
+Operating Systems
+Language Development
+Prototyping
+Network Programming
+Teaching
 
 
 
